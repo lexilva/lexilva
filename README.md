@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Alex Sandro</h1>
 <h3 align="center">
 🚀 Frontend Developer in Training | Passionate About Innovation</h3>
-😄 Pronouns: His
+
 💡 Enthusiastic about technology, problem-solving, and continuous learning
 💻 Currently part of DIO Campus Expert - Turma 11
 📚 Expanding my skills in HTML, CSS, JavaScript, and Leadership & Soft Skills
@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 🌱 Constantly exploring new technologies to enhance my development skills.
 🤝 Open to collaborations, projects, and new learning opportunities.
 
-📫 Reach me at lexilva@gmail.com
+<p>🚀 Let’s create something amazing together!</p>
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lexilva&theme=light&bg_color=1F2A48&border_color=00B5FF&show_icons=true&icon_color=FF6600&title_color=00FF00&text_color=FFFFFF)
@@ -45,7 +46,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<p>🚀 Let’s create something amazing together!</p>
+
 
 
 <h3 align="left">🌍 Let's Connect!:</h3>
