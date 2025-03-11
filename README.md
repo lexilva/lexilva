@@ -37,6 +37,14 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lexilva&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
+## 🚀 Meus Projetos Hospedados no Vercel
+
+Confira meus projetos hospedados no Vercel! Clique nos links abaixo para visualizar cada um deles:
+
+- [Projeto 1: Pet Boutique](https://petboutique.vercel.app/)
+- [Projeto 2: Advocacia Senhor Lei](https://advocacia-senhor-lei-eight.vercel.app/)
+- [Projeto 3: FlexBox Oracle One](https://flex-box-oracle-one.vercel.app/)
+- [Projeto 4: Responsivo Oracle One](https://responsivo-oracle-one.vercel.app/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
@@ -56,6 +64,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/https://www.instagram.com/lexilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lexilva" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/U5Hk7kxZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/U5Hk7kxZ" height="30" width="40" /></a>
 </p>
+
 
 
 
