@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">🌍 Let's Connect!:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/www.linkedin.com/in/lexilva](https://www.linkedin.com/in/alexsilvatech/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lexilva" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/alexsilvatech/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lexilva" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/lexilva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lexilva/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/lexilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lexilva" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/U5Hk7kxZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/U5Hk7kxZ" height="30" width="40" /></a>
