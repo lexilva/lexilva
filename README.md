@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 
 Confira alguns dos meus projetos hospedados no **Vercel**. Clique nos links abaixo para acessá-los:  
 
-- 🔹 [Pet Boutique](https://petboutique.vercel.app/){:target="_blank"} 
-- 🔹 [Advocacia Senhor Lei](https://advocacia-senhor-lei-eight.vercel.app/){:target="_blank"}
-- 🔹 [FlexBox Oracle One](https://flex-box-oracle-one.vercel.app/){:target="_blank"}
-- 🔹 [Responsivo Oracle One](https://responsivo-oracle-one.vercel.app/){:target="_blank"}
+- 🔹 [Pet Boutique](https://petboutique.vercel.app/) 
+- 🔹 [Advocacia Senhor Lei](https://advocacia-senhor-lei-eight.vercel.app/)
+- 🔹 [FlexBox Oracle One](https://flex-box-oracle-one.vercel.app/)
+- 🔹 [Responsivo Oracle One](https://responsivo-oracle-one.vercel.app/)
 
 ---
 
