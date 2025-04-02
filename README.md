@@ -37,10 +37,10 @@
 🔹 [Página de Portifólio Oracle One](https://github.com/lexilva/challengePortifolioT5One)  
 
 **Confira alguns projetos hospedados na Vercel:**  
-🔹 [Pet Boutique](https://petboutique.vercel.app/)  Página exemplo para site de uma veterinária
-🔹 [Advocacia Senhor Lei](https://advocacia-senhor-lei-eight.vercel.app/)   Página exemplo para site de um escritório jurídico
-🔹 [FlexBox Oracle One](https://flex-box-oracle-one.vercel.app/)  Página exemplo de uso de flexbox
-🔹 [Responsivo Oracle One](https://responsivo-oracle-one.vercel.app/)  Página exemplo de um site responsivo
+🔹 Site para uma veterinária [Pet Boutique](https://petboutique.vercel.app/)  
+🔹 Site para um escritório jurídico [Advocacia Senhor Lei](https://advocacia-senhor-lei-eight.vercel.app/)  
+🔹 Exemplo de uso de flexbox [FlexBox Oracle One](https://flex-box-oracle-one.vercel.app/)  
+🔹 Exemplo de site responsivo [Responsivo Oracle One](https://responsivo-oracle-one.vercel.app/)  
 
 ---
 
