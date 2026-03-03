@@ -6,7 +6,7 @@
 
 💡 **Entusiasta de tecnologia**, resolução de problemas e aprendizado contínuo.  
 
-💻 Atualmente sou Embaixador do **DIO Campus Expert - Turma 11**, aprimorando minhas habilidades em:  
+💻Embaixador do **DIO Campus Expert - Turma 11**, aprimorei minhas habilidades em:  
 - **HTML, CSS e JavaScript**  
 - **Liderança e Soft Skills**  
 
@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lexilva&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Linguagens mais usadas"/>  
 </div>
 */
-[![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[[Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
