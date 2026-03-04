@@ -22,14 +22,11 @@
 
 ## 📊 Minhas Estatísticas no GitHub  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lexilva&theme=light&bg_color=1F2A48&border_color=00B5FF&show_icons=true&icon_color=FF6600&title_color=00FF00&text_color=FFFFFF" alt="Estatísticas do GitHub"/>  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lexilva&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" alt="Linguagens mais usadas"/>  
-</div>
 
-<div>
+
+
   ![Metrics](./assets/metrics.svg)
-</div>
+
 ---
 
 ## 🚀 Projetos Em Destaque  
